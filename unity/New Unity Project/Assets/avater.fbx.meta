@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 4c842138ae652fc4cb95e6947571015e
-timeCreated: 1528535848
+guid: d2fae2887342bbf40817fc76b76960e3
+timeCreated: 1530429944
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -78,9 +78,10 @@ ModelImporter:
     100140: "\u5F8C\u308D\u9AEA\u7D50\u5408"
     100142: "\u77B3"
     100144: "\u77B3\u30CF\u30A4\u30E9\u30A4\u30C8"
-    100146: "\u9AEA\u306E\u6BDB"
-    100148: "\u9AEA\u306E\u6BDB2"
-    100150: "\u9AEA\u306E\u6BDB\u4E0B\u5730"
+    100146: "\u9774"
+    100148: "\u9AEA\u306E\u6BDB"
+    100150: "\u9AEA\u306E\u6BDB2"
+    100152: "\u9AEA\u306E\u6BDB\u4E0B\u5730"
     400000: //RootNode
     400002: body
     400004: Chest
@@ -154,9 +155,10 @@ ModelImporter:
     400140: "\u5F8C\u308D\u9AEA\u7D50\u5408"
     400142: "\u77B3"
     400144: "\u77B3\u30CF\u30A4\u30E9\u30A4\u30C8"
-    400146: "\u9AEA\u306E\u6BDB"
-    400148: "\u9AEA\u306E\u6BDB2"
-    400150: "\u9AEA\u306E\u6BDB\u4E0B\u5730"
+    400146: "\u9774"
+    400148: "\u9AEA\u306E\u6BDB"
+    400150: "\u9AEA\u306E\u6BDB2"
+    400152: "\u9AEA\u306E\u6BDB\u4E0B\u5730"
     4300000: "\u3082\u307F\u3042\u3052"
     4300002: "\u5F8C\u308D\u9AEA\u7D50\u5408"
     4300004: "\u9AEA\u306E\u6BDB"
@@ -168,6 +170,7 @@ ModelImporter:
     4300016: "\u77B3"
     4300018: "\u77B3\u30CF\u30A4\u30E9\u30A4\u30C8"
     4300020: "\u30B9\u30AB\u30FC\u30C8"
+    4300022: "\u9774"
     9500000: //RootNode
     13700000: body
     13700002: "\u307E\u3064\u3052"
@@ -177,9 +180,10 @@ ModelImporter:
     13700010: "\u5F8C\u308D\u9AEA\u7D50\u5408"
     13700012: "\u77B3"
     13700014: "\u77B3\u30CF\u30A4\u30E9\u30A4\u30C8"
-    13700016: "\u9AEA\u306E\u6BDB"
-    13700018: "\u9AEA\u306E\u6BDB2"
-    13700020: "\u9AEA\u306E\u6BDB\u4E0B\u5730"
+    13700016: "\u9774"
+    13700018: "\u9AEA\u306E\u6BDB"
+    13700020: "\u9AEA\u306E\u6BDB2"
+    13700022: "\u9AEA\u306E\u6BDB\u4E0B\u5730"
   materials:
     importMaterials: 1
     materialName: 0
@@ -368,22 +372,6 @@ ModelImporter:
         modified: 0
     - boneName: RightHand
       humanName: RightHand
-      limit:
-        min: {x: 0, y: 0, z: 0}
-        max: {x: 0, y: 0, z: 0}
-        value: {x: 0, y: 0, z: 0}
-        length: 0
-        modified: 0
-    - boneName: LeftToeBase
-      humanName: LeftToes
-      limit:
-        min: {x: 0, y: 0, z: 0}
-        max: {x: 0, y: 0, z: 0}
-        value: {x: 0, y: 0, z: 0}
-        length: 0
-        modified: 0
-    - boneName: RightToeBase
-      humanName: RightToes
       limit:
         min: {x: 0, y: 0, z: 0}
         max: {x: 0, y: 0, z: 0}
@@ -664,6 +652,11 @@ ModelImporter:
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: "\u77B3\u30CF\u30A4\u30E9\u30A4\u30C8"
+      parentName: avater(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u9774"
       parentName: avater(Clone)
       position: {x: -0, y: 0, z: 0}
       rotation: {x: 0, y: -0, z: -0, w: 1}
