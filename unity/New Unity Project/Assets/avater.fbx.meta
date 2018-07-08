@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: d2fae2887342bbf40817fc76b76960e3
-timeCreated: 1530429944
+guid: cf3619cc6fc29da48ba982ad621c3814
+timeCreated: 1530981141
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -72,16 +72,17 @@ ModelImporter:
     100128: RightUpperLeg
     100130: Spine
     100132: "\u307E\u3064\u3052"
-    100134: "\u3082\u307F\u3042\u3052"
-    100136: "\u30B9\u30AB\u30FC\u30C8"
-    100138: "\u30D1\u30FC\u30AB\u30FC"
-    100140: "\u5F8C\u308D\u9AEA\u7D50\u5408"
-    100142: "\u77B3"
-    100144: "\u77B3\u30CF\u30A4\u30E9\u30A4\u30C8"
-    100146: "\u9774"
-    100148: "\u9AEA\u306E\u6BDB"
-    100150: "\u9AEA\u306E\u6BDB2"
-    100152: "\u9AEA\u306E\u6BDB\u4E0B\u5730"
+    100134: "\u30B9\u30AB\u30FC\u30C8"
+    100136: "\u30D1\u30FC\u30AB\u30FC"
+    100138: "\u30D8\u30A2\u30D4\u30F3"
+    100140: "\u4E0B\u9AEA"
+    100142: "\u524D\u9AEA"
+    100144: "\u5F8C\u308D\u9AEA"
+    100146: "\u7709\u6BDB"
+    100148: "\u77B3"
+    100150: "\u77B3\u30CF\u30A4\u30E9\u30A4\u30C8"
+    100152: "\u9774"
+    100154: "\u9AEA"
     400000: //RootNode
     400002: body
     400004: Chest
@@ -149,41 +150,44 @@ ModelImporter:
     400128: RightUpperLeg
     400130: Spine
     400132: "\u307E\u3064\u3052"
-    400134: "\u3082\u307F\u3042\u3052"
-    400136: "\u30B9\u30AB\u30FC\u30C8"
-    400138: "\u30D1\u30FC\u30AB\u30FC"
-    400140: "\u5F8C\u308D\u9AEA\u7D50\u5408"
-    400142: "\u77B3"
-    400144: "\u77B3\u30CF\u30A4\u30E9\u30A4\u30C8"
-    400146: "\u9774"
-    400148: "\u9AEA\u306E\u6BDB"
-    400150: "\u9AEA\u306E\u6BDB2"
-    400152: "\u9AEA\u306E\u6BDB\u4E0B\u5730"
-    4300000: "\u3082\u307F\u3042\u3052"
-    4300002: "\u5F8C\u308D\u9AEA\u7D50\u5408"
-    4300004: "\u9AEA\u306E\u6BDB"
-    4300006: "\u9AEA\u306E\u6BDB2"
-    4300008: "\u9AEA\u306E\u6BDB\u4E0B\u5730"
-    4300010: "\u307E\u3064\u3052"
-    4300012: "\u30D1\u30FC\u30AB\u30FC"
-    4300014: body
-    4300016: "\u77B3"
-    4300018: "\u77B3\u30CF\u30A4\u30E9\u30A4\u30C8"
-    4300020: "\u30B9\u30AB\u30FC\u30C8"
-    4300022: "\u9774"
+    400134: "\u30B9\u30AB\u30FC\u30C8"
+    400136: "\u30D1\u30FC\u30AB\u30FC"
+    400138: "\u30D8\u30A2\u30D4\u30F3"
+    400140: "\u4E0B\u9AEA"
+    400142: "\u524D\u9AEA"
+    400144: "\u5F8C\u308D\u9AEA"
+    400146: "\u7709\u6BDB"
+    400148: "\u77B3"
+    400150: "\u77B3\u30CF\u30A4\u30E9\u30A4\u30C8"
+    400152: "\u9774"
+    400154: "\u9AEA"
+    4300000: "\u7709\u6BDB"
+    4300002: "\u307E\u3064\u3052"
+    4300004: "\u30D1\u30FC\u30AB\u30FC"
+    4300006: body
+    4300008: "\u77B3"
+    4300010: "\u77B3\u30CF\u30A4\u30E9\u30A4\u30C8"
+    4300012: "\u30B9\u30AB\u30FC\u30C8"
+    4300014: "\u9774"
+    4300016: "\u9AEA"
+    4300018: "\u524D\u9AEA"
+    4300020: "\u5F8C\u308D\u9AEA"
+    4300022: "\u4E0B\u9AEA"
+    4300024: "\u30D8\u30A2\u30D4\u30F3"
     9500000: //RootNode
     13700000: body
     13700002: "\u307E\u3064\u3052"
-    13700004: "\u3082\u307F\u3042\u3052"
-    13700006: "\u30B9\u30AB\u30FC\u30C8"
-    13700008: "\u30D1\u30FC\u30AB\u30FC"
-    13700010: "\u5F8C\u308D\u9AEA\u7D50\u5408"
-    13700012: "\u77B3"
-    13700014: "\u77B3\u30CF\u30A4\u30E9\u30A4\u30C8"
-    13700016: "\u9774"
-    13700018: "\u9AEA\u306E\u6BDB"
-    13700020: "\u9AEA\u306E\u6BDB2"
-    13700022: "\u9AEA\u306E\u6BDB\u4E0B\u5730"
+    13700004: "\u30B9\u30AB\u30FC\u30C8"
+    13700006: "\u30D1\u30FC\u30AB\u30FC"
+    13700008: "\u30D8\u30A2\u30D4\u30F3"
+    13700010: "\u4E0B\u9AEA"
+    13700012: "\u524D\u9AEA"
+    13700014: "\u5F8C\u308D\u9AEA"
+    13700016: "\u7709\u6BDB"
+    13700018: "\u77B3"
+    13700020: "\u77B3\u30CF\u30A4\u30E9\u30A4\u30C8"
+    13700022: "\u9774"
+    13700024: "\u9AEA"
   materials:
     importMaterials: 1
     materialName: 0
@@ -626,11 +630,6 @@ ModelImporter:
       position: {x: -0, y: 0, z: 0}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-    - name: "\u3082\u307F\u3042\u3052"
-      parentName: avater(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
     - name: "\u30B9\u30AB\u30FC\u30C8"
       parentName: avater(Clone)
       position: {x: -0, y: 0, z: 0}
@@ -641,7 +640,27 @@ ModelImporter:
       position: {x: -0, y: 0, z: 0}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-    - name: "\u5F8C\u308D\u9AEA\u7D50\u5408"
+    - name: "\u30D8\u30A2\u30D4\u30F3"
+      parentName: avater(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u4E0B\u9AEA"
+      parentName: avater(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u524D\u9AEA"
+      parentName: avater(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u5F8C\u308D\u9AEA"
+      parentName: avater(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u7709\u6BDB"
       parentName: avater(Clone)
       position: {x: -0, y: 0, z: 0}
       rotation: {x: 0, y: -0, z: -0, w: 1}
@@ -661,17 +680,7 @@ ModelImporter:
       position: {x: -0, y: 0, z: 0}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-    - name: "\u9AEA\u306E\u6BDB"
-      parentName: avater(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
-    - name: "\u9AEA\u306E\u6BDB2"
-      parentName: avater(Clone)
-      position: {x: -0, y: 0, z: 0}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
-      scale: {x: 1, y: 1, z: 1}
-    - name: "\u9AEA\u306E\u6BDB\u4E0B\u5730"
+    - name: "\u9AEA"
       parentName: avater(Clone)
       position: {x: -0, y: 0, z: 0}
       rotation: {x: 0, y: -0, z: -0, w: 1}
