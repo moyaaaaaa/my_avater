@@ -1,166 +1,186 @@
 fileFormatVersion: 2
-guid: cf3619cc6fc29da48ba982ad621c3814
-timeCreated: 1530981141
+guid: 33ad271f66686e44e8f2422d13cb1f95
+timeCreated: 1531036385
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
     100000: //RootNode
     100002: body
-    100004: Chest
-    100006: Head
-    100008: Head_end
-    100010: Hips
-    100012: LeftFoot
-    100014: LeftHand
-    100016: LeftIndexDistal
-    100018: LeftIndexDistal_end
-    100020: LeftIndexIntermediate
-    100022: LeftIndexProximal
-    100024: LeftLittleDistal
-    100026: LeftLittleDistal_end
-    100028: LeftLittleIntermediate
-    100030: LeftLittleProximal
-    100032: LeftLowerArm
-    100034: LeftLowerLeg
-    100036: LeftMiddleDistal
-    100038: LeftMiddleDistal_end
-    100040: LeftMiddleIntermediate
-    100042: LeftMiddleProximal
-    100044: LeftRingDistal
-    100046: LeftRingDistal_end
-    100048: LeftRingIntermediate
-    100050: LeftRingProximal
-    100052: LeftShoulder
-    100054: LeftThumbDistal
-    100056: LeftThumbDistal_end
-    100058: LeftThumbIntermediate
-    100060: LeftThumbProximal
-    100062: LeftToeBase
-    100064: LeftToeBase_end
-    100066: LeftUpperArm
-    100068: LeftUpperLeg
-    100070: Neck
-    100072: RightFoot
-    100074: RightHand
-    100076: RightIndexDistal
-    100078: RightIndexDistal_end
-    100080: RightIndexIntermediate
-    100082: RightIndexProximal
-    100084: RightLittleDistal
-    100086: RightLittleDistal_end
-    100088: RightLittleIntermediate
-    100090: RightLittleProximal
-    100092: RightLowerArm
-    100094: RightLowerLeg
-    100096: RightMiddleDistal
-    100098: RightMiddleDistal_end
-    100100: RightMiddleIntermediate
-    100102: RightMiddleProximal
-    100104: RightRingDistal
-    100106: RightRingDistal_end
-    100108: RightRingIntermediate
-    100110: RightRingProximal
-    100112: RightShoulder
-    100114: RightThumbDistal
-    100116: RightThumbDistal_end
-    100118: RightThumbIntermediate
-    100120: RightThumbProximal
-    100122: RightToeBase
-    100124: RightToeBase_end
-    100126: RightUpperArm
-    100128: RightUpperLeg
-    100130: Spine
-    100132: "\u307E\u3064\u3052"
-    100134: "\u30B9\u30AB\u30FC\u30C8"
-    100136: "\u30D1\u30FC\u30AB\u30FC"
-    100138: "\u30D8\u30A2\u30D4\u30F3"
-    100140: "\u4E0B\u9AEA"
-    100142: "\u524D\u9AEA"
-    100144: "\u5F8C\u308D\u9AEA"
-    100146: "\u7709\u6BDB"
-    100148: "\u77B3"
-    100150: "\u77B3\u30CF\u30A4\u30E9\u30A4\u30C8"
-    100152: "\u9774"
-    100154: "\u9AEA"
+    100004: bone67
+    100006: bone68
+    100008: bone69
+    100010: bone70
+    100012: bone71
+    100014: bone71_end
+    100016: bone72
+    100018: bone72_end
+    100020: Chest
+    100022: Head
+    100024: Hips
+    100026: "L_\u3082\u307F\u3042\u3052"
+    100028: LeftFoot
+    100030: LeftHand
+    100032: LeftIndexDistal
+    100034: LeftIndexDistal_end
+    100036: LeftIndexIntermediate
+    100038: LeftIndexProximal
+    100040: LeftLittleDistal
+    100042: LeftLittleDistal_end
+    100044: LeftLittleIntermediate
+    100046: LeftLittleProximal
+    100048: LeftLowerArm
+    100050: LeftLowerLeg
+    100052: LeftMiddleDistal
+    100054: LeftMiddleDistal_end
+    100056: LeftMiddleIntermediate
+    100058: LeftMiddleProximal
+    100060: LeftRingDistal
+    100062: LeftRingDistal_end
+    100064: LeftRingIntermediate
+    100066: LeftRingProximal
+    100068: LeftShoulder
+    100070: LeftThumbDistal
+    100072: LeftThumbDistal_end
+    100074: LeftThumbIntermediate
+    100076: LeftThumbProximal
+    100078: LeftToeBase
+    100080: LeftToeBase_end
+    100082: LeftUpperArm
+    100084: LeftUpperLeg
+    100086: Neck
+    100088: RightFoot
+    100090: RightHand
+    100092: RightIndexDistal
+    100094: RightIndexDistal_end
+    100096: RightIndexIntermediate
+    100098: RightIndexProximal
+    100100: RightLittleDistal
+    100102: RightLittleDistal_end
+    100104: RightLittleIntermediate
+    100106: RightLittleProximal
+    100108: RightLowerArm
+    100110: RightLowerLeg
+    100112: RightMiddleDistal
+    100114: RightMiddleDistal_end
+    100116: RightMiddleIntermediate
+    100118: RightMiddleProximal
+    100120: RightRingDistal
+    100122: RightRingDistal_end
+    100124: RightRingIntermediate
+    100126: RightRingProximal
+    100128: RightShoulder
+    100130: RightThumbDistal
+    100132: RightThumbDistal_end
+    100134: RightThumbIntermediate
+    100136: RightThumbProximal
+    100138: RightToeBase
+    100140: RightToeBase_end
+    100142: RightUpperArm
+    100144: RightUpperLeg
+    100146: Spine
+    100148: "\u307E\u3064\u3052"
+    100150: "\u30B9\u30AB\u30FC\u30C8"
+    100152: "\u30D1\u30FC\u30AB\u30FC"
+    100154: "\u30D8\u30A2\u30D4\u30F3"
+    100156: "\u4E0B\u9AEA"
+    100158: "\u524D\u9AEA"
+    100160: "\u5F8C\u308D\u9AEA"
+    100162: "\u7709\u6BDB"
+    100164: "\u77B3"
+    100166: "\u77B3\u30CF\u30A4\u30E9\u30A4\u30C8"
+    100168: "\u9774"
+    100170: "\u97741"
+    100172: "\u9AEA"
     400000: //RootNode
     400002: body
-    400004: Chest
-    400006: Head
-    400008: Head_end
-    400010: Hips
-    400012: LeftFoot
-    400014: LeftHand
-    400016: LeftIndexDistal
-    400018: LeftIndexDistal_end
-    400020: LeftIndexIntermediate
-    400022: LeftIndexProximal
-    400024: LeftLittleDistal
-    400026: LeftLittleDistal_end
-    400028: LeftLittleIntermediate
-    400030: LeftLittleProximal
-    400032: LeftLowerArm
-    400034: LeftLowerLeg
-    400036: LeftMiddleDistal
-    400038: LeftMiddleDistal_end
-    400040: LeftMiddleIntermediate
-    400042: LeftMiddleProximal
-    400044: LeftRingDistal
-    400046: LeftRingDistal_end
-    400048: LeftRingIntermediate
-    400050: LeftRingProximal
-    400052: LeftShoulder
-    400054: LeftThumbDistal
-    400056: LeftThumbDistal_end
-    400058: LeftThumbIntermediate
-    400060: LeftThumbProximal
-    400062: LeftToeBase
-    400064: LeftToeBase_end
-    400066: LeftUpperArm
-    400068: LeftUpperLeg
-    400070: Neck
-    400072: RightFoot
-    400074: RightHand
-    400076: RightIndexDistal
-    400078: RightIndexDistal_end
-    400080: RightIndexIntermediate
-    400082: RightIndexProximal
-    400084: RightLittleDistal
-    400086: RightLittleDistal_end
-    400088: RightLittleIntermediate
-    400090: RightLittleProximal
-    400092: RightLowerArm
-    400094: RightLowerLeg
-    400096: RightMiddleDistal
-    400098: RightMiddleDistal_end
-    400100: RightMiddleIntermediate
-    400102: RightMiddleProximal
-    400104: RightRingDistal
-    400106: RightRingDistal_end
-    400108: RightRingIntermediate
-    400110: RightRingProximal
-    400112: RightShoulder
-    400114: RightThumbDistal
-    400116: RightThumbDistal_end
-    400118: RightThumbIntermediate
-    400120: RightThumbProximal
-    400122: RightToeBase
-    400124: RightToeBase_end
-    400126: RightUpperArm
-    400128: RightUpperLeg
-    400130: Spine
-    400132: "\u307E\u3064\u3052"
-    400134: "\u30B9\u30AB\u30FC\u30C8"
-    400136: "\u30D1\u30FC\u30AB\u30FC"
-    400138: "\u30D8\u30A2\u30D4\u30F3"
-    400140: "\u4E0B\u9AEA"
-    400142: "\u524D\u9AEA"
-    400144: "\u5F8C\u308D\u9AEA"
-    400146: "\u7709\u6BDB"
-    400148: "\u77B3"
-    400150: "\u77B3\u30CF\u30A4\u30E9\u30A4\u30C8"
-    400152: "\u9774"
-    400154: "\u9AEA"
+    400004: bone67
+    400006: bone68
+    400008: bone69
+    400010: bone70
+    400012: bone71
+    400014: bone71_end
+    400016: bone72
+    400018: bone72_end
+    400020: Chest
+    400022: Head
+    400024: Hips
+    400026: "L_\u3082\u307F\u3042\u3052"
+    400028: LeftFoot
+    400030: LeftHand
+    400032: LeftIndexDistal
+    400034: LeftIndexDistal_end
+    400036: LeftIndexIntermediate
+    400038: LeftIndexProximal
+    400040: LeftLittleDistal
+    400042: LeftLittleDistal_end
+    400044: LeftLittleIntermediate
+    400046: LeftLittleProximal
+    400048: LeftLowerArm
+    400050: LeftLowerLeg
+    400052: LeftMiddleDistal
+    400054: LeftMiddleDistal_end
+    400056: LeftMiddleIntermediate
+    400058: LeftMiddleProximal
+    400060: LeftRingDistal
+    400062: LeftRingDistal_end
+    400064: LeftRingIntermediate
+    400066: LeftRingProximal
+    400068: LeftShoulder
+    400070: LeftThumbDistal
+    400072: LeftThumbDistal_end
+    400074: LeftThumbIntermediate
+    400076: LeftThumbProximal
+    400078: LeftToeBase
+    400080: LeftToeBase_end
+    400082: LeftUpperArm
+    400084: LeftUpperLeg
+    400086: Neck
+    400088: RightFoot
+    400090: RightHand
+    400092: RightIndexDistal
+    400094: RightIndexDistal_end
+    400096: RightIndexIntermediate
+    400098: RightIndexProximal
+    400100: RightLittleDistal
+    400102: RightLittleDistal_end
+    400104: RightLittleIntermediate
+    400106: RightLittleProximal
+    400108: RightLowerArm
+    400110: RightLowerLeg
+    400112: RightMiddleDistal
+    400114: RightMiddleDistal_end
+    400116: RightMiddleIntermediate
+    400118: RightMiddleProximal
+    400120: RightRingDistal
+    400122: RightRingDistal_end
+    400124: RightRingIntermediate
+    400126: RightRingProximal
+    400128: RightShoulder
+    400130: RightThumbDistal
+    400132: RightThumbDistal_end
+    400134: RightThumbIntermediate
+    400136: RightThumbProximal
+    400138: RightToeBase
+    400140: RightToeBase_end
+    400142: RightUpperArm
+    400144: RightUpperLeg
+    400146: Spine
+    400148: "\u307E\u3064\u3052"
+    400150: "\u30B9\u30AB\u30FC\u30C8"
+    400152: "\u30D1\u30FC\u30AB\u30FC"
+    400154: "\u30D8\u30A2\u30D4\u30F3"
+    400156: "\u4E0B\u9AEA"
+    400158: "\u524D\u9AEA"
+    400160: "\u5F8C\u308D\u9AEA"
+    400162: "\u7709\u6BDB"
+    400164: "\u77B3"
+    400166: "\u77B3\u30CF\u30A4\u30E9\u30A4\u30C8"
+    400168: "\u9774"
+    400170: "\u97741"
+    400172: "\u9AEA"
+    2300000: "\u97741"
+    3300000: "\u97741"
     4300000: "\u7709\u6BDB"
     4300002: "\u307E\u3064\u3052"
     4300004: "\u30D1\u30FC\u30AB\u30FC"
@@ -169,11 +189,12 @@ ModelImporter:
     4300010: "\u77B3\u30CF\u30A4\u30E9\u30A4\u30C8"
     4300012: "\u30B9\u30AB\u30FC\u30C8"
     4300014: "\u9774"
-    4300016: "\u9AEA"
-    4300018: "\u524D\u9AEA"
-    4300020: "\u5F8C\u308D\u9AEA"
-    4300022: "\u4E0B\u9AEA"
-    4300024: "\u30D8\u30A2\u30D4\u30F3"
+    4300016: "\u97741"
+    4300018: "\u9AEA"
+    4300020: "\u524D\u9AEA"
+    4300022: "\u5F8C\u308D\u9AEA"
+    4300024: "\u4E0B\u9AEA"
+    4300026: "\u30D8\u30A2\u30D4\u30F3"
     9500000: //RootNode
     13700000: body
     13700002: "\u307E\u3064\u3052"
@@ -680,6 +701,11 @@ ModelImporter:
       position: {x: -0, y: 0, z: 0}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
+    - name: "\u97741"
+      parentName: avater(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
     - name: "\u9AEA"
       parentName: avater(Clone)
       position: {x: -0, y: 0, z: 0}
@@ -1000,9 +1026,49 @@ ModelImporter:
       position: {x: -0, y: 0.010245361, z: 0}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-    - name: Head_end
+    - name: "L_\u3082\u307F\u3042\u3052"
       parentName: Head
       position: {x: -0, y: 0.023957442, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone68
+      parentName: "L_\u3082\u307F\u3042\u3052"
+      position: {x: 0.010496621, y: -0.0053275106, z: 0.0039932025}
+      rotation: {x: -0.6775523, y: -0.00000018408642, z: 0.72676146, w: -0.11287522}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone70
+      parentName: bone68
+      position: {x: 4.4703483e-10, y: 0.008417521, z: 1.0244548e-10}
+      rotation: {x: 0.042995438, y: 0.99110115, z: 0.118991785, w: 0.04136308}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone72
+      parentName: bone70
+      position: {x: 6.705522e-10, y: 0.008315419, z: -6.891787e-10}
+      rotation: {x: -0.057098217, y: 0.42619494, z: -0.014554863, w: 0.90271026}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone72_end
+      parentName: bone72
+      position: {x: 0.0000000016763806, y: 0.0068289703, z: -7.45058e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone67
+      parentName: "L_\u3082\u307F\u3042\u3052"
+      position: {x: -0.010496621, y: -0.0053275106, z: 0.0039932025}
+      rotation: {x: 0.6775523, y: -0.00000018408642, z: 0.72676146, w: 0.11287522}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone69
+      parentName: bone67
+      position: {x: -4.4703483e-10, y: 0.008417521, z: 1.0244548e-10}
+      rotation: {x: -0.042995438, y: 0.99110115, z: 0.118991785, w: -0.04136308}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone71
+      parentName: bone69
+      position: {x: -6.705522e-10, y: 0.008315419, z: -6.891787e-10}
+      rotation: {x: -0.057098217, y: -0.42619494, z: 0.014554863, w: 0.90271026}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bone71_end
+      parentName: bone71
+      position: {x: -0.0000000016763806, y: 0.0068289703, z: -7.45058e-10}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
     armTwist: 0.5
